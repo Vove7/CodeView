@@ -1,3 +1,8 @@
+[![](https://jitpack.io/v/Vove7/CodeView.svg)](https://jitpack.io/#Vove7/CodeView)
+
+
+Fork from [Thereisnospon/CodeView](https://github.com/Thereisnospon/CodeView)
+
 
 english version : https://github.com/Thereisnospon/CodeView/blob/master/READ_ENGLISH.md
 
